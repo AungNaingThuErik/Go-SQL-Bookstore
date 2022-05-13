@@ -17,3 +17,20 @@ Underscore in front of an import [Link] (https://stackoverflow.com/questions/212
 ## Connecting to a DB
 
 [Link](https://gorm.io/docs/connecting_to_the_database.html)
+
+## Test on POSTMAN
+
+### Create a book 
+<img src="./assets/create-book.png" width="50%" height="50%">
+
+### Get books 
+<img src="./assets/get-books.png" width="50%" height="50%">
+
+### Get book by ID 
+<img src="./assets/get-bookId.png" width="50%" height="50%">
+
+### Update book by ID 
+<img src="./assets/update-book.png" width="50%" height="50%">
+
+### Delete book by ID 
+<img src="./assets/delete-book.png" width="50%" height="50%">
